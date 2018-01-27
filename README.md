@@ -27,8 +27,8 @@ This project is done to demonstrate installation and configuration of a Linux se
     3. disabled root and password auth, and default ssh login port 22
     4. enabled ssh login to grader
     5. disabled firewall for all incoming except ports 2200, 123, 80
-    6. Created itemcatalog database with user catalog
-    7. Deployed itemcatalog application  
+    6. Created itemcatalog database with user catalog on postgresql
+    7. Deployed itemcatalog application
     
     
 # How to login to linux server as grader
