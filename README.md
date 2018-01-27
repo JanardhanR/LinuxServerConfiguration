@@ -2,7 +2,7 @@
 This project is a part of FSND (Full Stack Web Developer) at Udacity.
 
 # Configuration details
-  IP : 13.127.9.96
+  IP :  13.127.9.96
   
   URL : http://ec2-13-127-9-96.ap-south-1.compute.amazonaws.com/
   
