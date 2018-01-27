@@ -1,5 +1,6 @@
 # LinuxServerConfiguration
 This project is a part of FSND (Full Stack Web Developer) at Udacity.
+This project is done to demonstrate installation and configuration of a Linux server to to host a web application. 
 
 # Configuration details
   IP :  13.127.9.96
