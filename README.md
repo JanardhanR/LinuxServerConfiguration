@@ -32,7 +32,8 @@ This project is done to demonstrate installation and configuration of a Linux se
     
     
 # How to login to linux server as grader
-  Use the attached grader private key to login to 13.127.9.96 as grader@13.127.9.96 on port 2200
+  Use the attached grader private key and the pass phrase to login to 13.127.9.96 as grader@13.127.9.96 on port 2200
+  The pass phrase is 'Mango123'
   
   
     
