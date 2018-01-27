@@ -30,6 +30,9 @@ This project is a part of FSND (Full Stack Web Developer) at Udacity.
     7. Deployed itemcatalog application  
     
     
+# How to login to linux server as grader
+  Use the attached grader private key to login to 13.127.9.96 as grader@13.127.9.96 on port 2200
+  
   
     
   
